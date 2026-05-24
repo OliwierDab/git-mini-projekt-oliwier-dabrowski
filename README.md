@@ -37,6 +37,15 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 * `feature/komendy-git`
 * `feature/interfejs-zadania`
 
+### Wykorzystane w projekcie kluczowe polecenia Git:
+* **git status** – sprawdzanie bieżącego stanu plików w folderze roboczym.
+* **git add** – przygotowanie wybranych zmian do zapisania.
+* **git commit** – trwałe zapisanie wprowadzonych zmian w historii projektu wraz z opisem.
+* **git switch** – sprawne przełączanie się pomiędzy różnymi gałęziami (branchami).
+* **git merge** – łączenie i scalanie efektów pracy z gałęzi bocznych do gałęzi głównej main.
+* **git push** – przesyłanie gotowej historii commitów z komputera na serwer GitHub.
+* **git init** – utworzenie i zapoczątkowanie nowego, lokalnego repozytorium Git.
+
 ## Historia pracy
 
 1. Start projektu ze starterem (branch: main) – Wrzucenie pierwszych plików od nauczyciela.
