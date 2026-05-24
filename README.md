@@ -37,7 +37,7 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 * `feature/komendy-git`
 * `feature/interfejs-zadania`
 
-### Wykorzystane w projekcie kluczowe polecenia Git:
+## Wykorzystane w projekcie kluczowe polecenia Git:
 * **git status** – sprawdzanie bieżącego stanu plików w folderze roboczym.
 * **git add** – przygotowanie wybranych zmian do zapisania.
 * **git commit** – trwałe zapisanie wprowadzonych zmian w historii projektu wraz z opisem.
